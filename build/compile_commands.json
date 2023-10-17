@@ -1,0 +1,157 @@
+[
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_Alloc.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Alloc.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Alloc.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_Debug.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Debug.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Debug.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_Error.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Error.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Error.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_Global.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Global.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Global.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_Global_Option_set.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Global_Option_set.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Global_Option_set.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_Matrix.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Matrix.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Matrix.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_Matrix_CSC_or_CSR.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Matrix_CSC_or_CSR.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Matrix_CSC_or_CSR.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_Scalar.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Scalar.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Scalar.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_Vector.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Vector.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Vector.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/c++ -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -o CMakeFiles/OpenSpB_core.dir/src/SpB_Vector.cpp.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Vector.cpp",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Vector.cpp"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_Vector_Dense.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Vector_Dense.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Vector_Dense.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_Vector_Sparse.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Vector_Sparse.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Vector_Sparse.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_Warning.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Warning.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_Warning.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_error.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_error.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_error.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_finalize.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_finalize.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_finalize.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_core_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_core.dir/src/SpB_init.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_init.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src/SpB_init.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/c++ -DCVAPI_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -o CMakeFiles/OpenSpB_test_core.dir/test/00_SpB_Error_Warrning_test.cpp.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/test/00_SpB_Error_Warrning_test.cpp",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/test/00_SpB_Error_Warrning_test.cpp"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/c++ -DCVAPI_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -o CMakeFiles/OpenSpB_test_core.dir/test/01_set_and_extr_demo.cpp.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/test/01_set_and_extr_demo.cpp",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/test/01_set_and_extr_demo.cpp"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/c++ -DCVAPI_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -o CMakeFiles/OpenSpB_test_core.dir/test/02_matrix_build_demo.cpp.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/test/02_matrix_build_demo.cpp",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/test/02_matrix_build_demo.cpp"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -std=gnu11 -o CMakeFiles/OpenSpB_test_core.dir/test/SpB_Warrning_Error_test.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/core/test/SpB_Warrning_Error_test.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/test/SpB_Warrning_Error_test.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/c++ -DCVAPI_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -o CMakeFiles/OpenSpB_test_core.dir/__/__/utilities/run_gtest.cpp.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/utilities/run_gtest.cpp",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/utilities/run_gtest.cpp"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core",
+  "command": "/usr/local/bin/c++ -DCVAPI_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/core -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -o CMakeFiles/OpenSpB_test_core.dir/__/__/utilities/util.cpp.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/utilities/util.cpp",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/utilities/util.cpp"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_operation_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_operation.dir/src/SpB_mxv.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src/SpB_mxv.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src/SpB_mxv.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_operation_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_operation.dir/src/ird_calc.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src/ird_calc.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src/ird_calc.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_operation_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_operation.dir/src/spmv_vnec_D_for_mxv.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src/spmv_vnec_D_for_mxv.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src/spmv_vnec_D_for_mxv.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_operation_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_operation.dir/src/spmv_vnec_L_for_mxv.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src/spmv_vnec_L_for_mxv.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src/spmv_vnec_L_for_mxv.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_operation_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_operation.dir/src/spmv_vnec_S_for_mxv.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src/spmv_vnec_S_for_mxv.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src/spmv_vnec_S_for_mxv.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation",
+  "command": "/usr/local/bin/gcc -DCVAPI_EXPORTS -DOpenSpB_operation_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -fPIC -std=gnu11 -o CMakeFiles/OpenSpB_operation.dir/src/spmv_vnec_common.c.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src/spmv_vnec_common.c",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src/spmv_vnec_common.c"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation",
+  "command": "/usr/local/bin/c++ -DCVAPI_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -o CMakeFiles/OpenSpB_test_operation.dir/test/test_spmv_vnec.cpp.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/test/test_spmv_vnec.cpp",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/test/test_spmv_vnec.cpp"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation",
+  "command": "/usr/local/bin/c++ -DCVAPI_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -o CMakeFiles/OpenSpB_test_operation.dir/__/__/utilities/run_gtest.cpp.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/utilities/run_gtest.cpp",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/utilities/run_gtest.cpp"
+},
+{
+  "directory": "/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation",
+  "command": "/usr/local/bin/c++ -DCVAPI_EXPORTS -I/home/wangluhan/code/IPDPS/looynu/VNEC/utilities -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/core/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/build/src/operation -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/src -I/home/wangluhan/code/IPDPS/looynu/VNEC/src/operation/include -I/home/wangluhan/code/IPDPS/looynu/VNEC/include -I/home/wangluhan/code/IPDPS/looynu/VNEC   -DARM_NEON -fopenmp -DWITH_OMP -Wall -march=armv8.2-a+crc+crypto+fp16+simd -mtune=cortex-a72 -g -rdynamic  -O3 -DNDEBUG -o CMakeFiles/OpenSpB_test_operation.dir/__/__/utilities/util.cpp.o -c /home/wangluhan/code/IPDPS/looynu/VNEC/utilities/util.cpp",
+  "file": "/home/wangluhan/code/IPDPS/looynu/VNEC/utilities/util.cpp"
+}
+]

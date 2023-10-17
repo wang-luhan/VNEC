@@ -1,0 +1,16 @@
+.vscode
+make.sh
+*.mtx
+!data/graph/pdf_test/pdf_test.mtx
+*.tar.gz
+*.zip
+*.sg
+*.wsg
+converter
+!*_result.mtx
+!data/graph/grb_ppt/grb_ppt.mtx
+nohup.out
+run.sh
+*.aux
+citelist*
+.cache
