@@ -41,6 +41,7 @@ make convert
 cd build
 ./bin/OpenSpB_test_operation --gtest_filter=mxv_test_VNEC_FP64.amazon*
 ```
+Note that the test cases (sparse matrices) are written in the google test specification at the end of src/operation/test/test_spmv_vnec.cpp.
 ## Compile and run
 ```bash
 ./run_vnec.sh
